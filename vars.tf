@@ -11,7 +11,7 @@ variable "cidr_block" {
 }
 
 variable "region" {
-  default = "us-eastgit -1"
+  default = "us-east-1"
 }
 
 // See https://registry.terraform.io/providers/hashicorp/random/latest/docs/resources/string
